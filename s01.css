@@ -127,7 +127,11 @@ height:0;
 opacity:0;
 }
 /* ######## Scrolling Navigation Menu Css ######################### */
-.scroll-header {
+.
+
+
+
+{
        z-index: 9;
     position: absolute;
     top: 0;
@@ -171,6 +175,11 @@ color:#000!important;
 .item .scroll-header.scrolled-header #header img, .static_page .scroll-header.scrolled-header #header img, .error_page .scroll-header.scrolled-header #header img {
     display: block!important;
 }
+
+.item>.scroll-header .slicknav_menu .slicknav_no-text {margin-top: -15px;} 
+ .item>.scrolled-header .slicknav_menu .slicknav_no-text {top: -20px;margin-top: 15px;} 
+.item>.scroll-header.scrolled-header{top: -30px;}
+
 .scrollin-logo {
     float: left;
     margin: 0;
@@ -532,7 +541,7 @@ color:#000;
 #header-wrapper {
 text-align: center;
 padding:0;
-background: url(https://1.bp.blogspot.com/-ubkzRBEZ5s8/X-OS82vtPOI/AAAAAAAAAcM/TgZPaTtbHyMIUjEHhYwt53VWJIT9akoYACNcBGAsYHQ/s16000/master-rf-7.png) no-repeat center bottom;
+background: url(https://cdn.jsdelivr.net/gh/pryzhuk/blogspot/philip-bgr.svg) no-repeat center bottom;
     background-attachment: fixed;
     background-size: cover;
     margin-bottom: 10px;
