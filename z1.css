@@ -176,10 +176,6 @@ color:#000!important;
     display: block!important;
 }
 
-.item>.scroll-header .slicknav_menu .slicknav_no-text {margin-top: -15px;} 
- .item>.scrolled-header .slicknav_menu .slicknav_no-text {top: -20px;margin-top: 15px;} 
-.item>.scroll-header.scrolled-header{top: -30px;}
-
 .scrollin-logo {
     float: left;
     margin: 0;
@@ -523,6 +519,10 @@ color:#000;
 #menu ul ul {
 
 }
+
+.item>.scroll-header .slicknav_menu .slicknav_no-text {margin-top: -15px;} 
+ .item>.scrolled-header .slicknav_menu .slicknav_no-text {top: -20px;margin-top: 15px;} 
+.item>.scroll-header.scrolled-header{top: -30px;}
 
 /* ######## Header Css ######################### */
 
