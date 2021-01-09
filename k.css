@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #151515;
 }
 img {
-max-width: 100%;
+max-width: fit-content;
 vertical-align: middle;
 border: 0;
 }
@@ -3509,4 +3509,7 @@ display:none;
 }
 
 body#layout .ryzhuk-special-box, body#layout .ryzhuk-works-box, body#layout .ryzhuk-about-box, body#layout .insta-wrap, body#layout  .Portfolio-title {display:none;}
+
+.item>.scroll-header .slicknav_menu .slicknav_no-text {margin-top: -15px;} 
+ .item>.scrolled-header .slicknav_menu .slicknav_no-text {margin-top: 15px;} 
 /*------Layout (end)----------*/
