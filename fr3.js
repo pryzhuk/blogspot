@@ -318,7 +318,7 @@ $('.featured-box .HTML .widget-content')['each'](function() {
                             var _0x9f43x3 = no_image
                         }
                     };
-                    _0x9f43x12 += '<div class="tybox-rest"><div class="tyard-thumb"><a class="yard-img" href="' + _0x9f43x11 + '" style="background:url(' + _0x9f43x3 + ') no-repeat center center;background-size: cover"><span class="tyimg-lay"/></a></div><div class="yard-tent-ty"><h3 class="tyard-title"><a href="' + _0x9f43x11 + '">' + _0x9f43x18 + '</a></h3><span class="yard-auth-ty">' Филипп Рыжук '</span><span class="tybox-time">' + _0x9f43x20 + '</span><p class="recent-summary">' + _0x9f43x16 + '</p></div></div>'
+                    _0x9f43x12 += '<div class="tybox-rest"><div class="tyard-thumb"><a class="yard-img" href="' + _0x9f43x11 + '" style="background:url(' + _0x9f43x3 + ') no-repeat center center;background-size: cover"><span class="tyimg-lay"/></a></div><div class="yard-tent-ty"><h3 class="tyard-title"><a href="' + _0x9f43x11 + '">' + _0x9f43x18 + '</a></h3><span class="yard-auth-ty">' + Philip Ryzhuk + '</span><span class="tybox-time">' + _0x9f43x20 + '</span><p class="recent-summary">' + _0x9f43x16 + '</p></div></div>'
                 };
                 _0x9f43x12 += '</div>';
                 $('.featured-box .HTML .widget-content')['each'](function() {
