@@ -1226,9 +1226,7 @@ position:relative;
   width: 100px;
   border-radius: 50%;
 }
-.testimonial-cert {
-  height: 50vh;width:auto
- }
+.testimonial-cert {height:100%;width:100%}
 .testimonial-quote {
   display: block;
   font-size: 24px;
