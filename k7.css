@@ -1717,7 +1717,7 @@ margin:0 auto;
 overflow:hidden;}
 
 #ryzhuk_blogger_cntct_form-wrap{
-    background: url(https://svgsilh.com/svg/152874.svg) no-repeat center bottom;
+    background: url(https://cdn.jsdelivr.net/gh/pryzhuk/blogspot/balloon.svg) no-repeat center bottom;
     background-attachment: fixed;
     background-size: cover;
 position:relative;
@@ -2046,7 +2046,7 @@ margin:0;
 }
 /* ######## Counter Css ######################### */
 .counter-box {
-    background: url(https://1.bp.blogspot.com/-mqqKBFoKRF4/X-OU_2S0FxI/AAAAAAAAAcY/uz_D6smppeUYkJOJUWFbpYz73U3xDUngQCNcBGAsYHQ/s16000/philip-b1.jpg) no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/pryzhuk/blogspot/spirale.svg) no-repeat;
     background-attachment: scroll;
     background-size: cover;
 background-position: 50% 0;
